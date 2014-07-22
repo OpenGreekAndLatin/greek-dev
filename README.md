@@ -48,7 +48,6 @@ The current state is: *to be manually corrected*. The TOC is ordered according t
 Currently w/o inventory:
 
 3.  Libanius (1903-63). Opera. Recensuit Richardus Foerster 2
-13. Athenaeus, of Naucratis et al. (1887). Athenaei Navcratitae Dipnosophistarvm libri 15, recensvit Georgivs Kaibel 1
 
 ================
 ##### Legend for NLP attributes:
