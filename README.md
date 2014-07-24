@@ -44,6 +44,16 @@ The current state is: *to be manually corrected*. The TOC is ordered according t
 * [Aristotle; Berolini Typ. et impensis G. Reimeri; Akademie der Wissenschaften, Berlin; (1882-1909); Commentaria in Aristotelem graeca. Edita consilio et auctoritate Academiae litterarum regiae borussicae 21 pt 1-2](https://github.com/OpenGreekAndLatin/2013-07-01-03-30_commentariaina21pt12akaduoft_jp2_Philo_Gamera_34)
 * [Aristotle; Berolini Typ. et impensis G. Reimeri; Akademie der Wissenschaften, Berlin; (1882-1909); Commentaria in Aristotelem graeca. Edita consilio et auctoritate Academiae litterarum regiae borussicae 22, pt.1-3](https://github.com/OpenGreekAndLatin/2013-11-23-20-28_p1commentariaina22akaduoft_jp2_Philo_Gamera_34)
 * [Aristotle; Berolini Typ. et impensis G. Reimeri; Akademie der Wissenschaften, Berlin; (1882-1909); Commentaria in Aristotelem graeca. Edita consilio et auctoritate Academiae litterarum regiae borussicae 23](https://github.com/OpenGreekAndLatin/2013-07-01-03-39_commentariainari23akaduoft_jp2_Philo_Gamera_34)
+* [Philo, of Alexandria; Conybeare, F. C.; Oxford, The Clarendon press (1895); About the contemplative life](https://github.com/OpenGreekAndLatin/2013-10-10-14-04_aboutcontemplati00philuoft_jp2_GreekLex)
+* [Philo, of Alexandria; Harris, J. Rendel; Cambridge University Press (1886); Fragments; newly edited by Rendel Harris](https://github.com/OpenGreekAndLatin/2013-10-22-08-26_fragmentsnewlyed00philuoft_jp2_OCT7_rev)
+* [Philo, of Alexandria; Berolinum, Reimer (1896); Opera quae supersunt 01](https://github.com/OpenGreekAndLatin/2013-10-22-08-29_operaquaesupersu01phil_jp2_Philo_Gamera_34)
+* [Philo, of Alexandria; Berolinum, Reimer (1896); Opera quae supersunt 02](https://github.com/OpenGreekAndLatin/2013-07-18-09-02_operaquaesupersu02phil_jp2_Philo_Gamera_34)
+* [Philo, of Alexandria; Berolinum, Reimer (1896); Opera quae supersunt 03](https://github.com/OpenGreekAndLatin/2013-10-22-21-06_operaquaesupersu03phil_jp2_Philo_Gamera_34)
+* [Philo, of Alexandria; Berolinum, Reimer (1896); Opera quae supersunt 06](https://github.com/OpenGreekAndLatin/2013-10-22-21-06_operaquaesupersu06phil_jp2_Philo_Gamera_34)
+* [Philo, of Alexandria; Richter, Carl Ernst; Lipsia, Schwickert (1828); Opera omnia 05](https://github.com/OpenGreekAndLatin/2013-10-10-01-21_operaomnia05phil_jp2_weidmann_cnn)
+* [Philo, of Alexandria; Cohn, Wendland, Reiter, Leisegang, Berolini G. Reimeri (1896); Philonis Alexandrini Opera quae supersunt. Ediderunt Leopoldus Cohn et Paulus Wendland 1-3](https://github.com/OpenGreekAndLatin/2013-10-22-21-10_philonisalexandr0103philuoft_jp2_Philo_Gamera_34)
+* [Philo, of Alexandria; Cohn, Wendland, Reiter, Leisegang, Berolini G. Reimeri (1896); Philonis Alexandrini Opera quae supersunt. Ediderunt Leopoldus Cohn et Paulus Wendland 4-6](https://github.com/OpenGreekAndLatin/2013-10-24-09-40_philonisalexandr0406philuoft_jp2_Philo_Gamera_34)
+* [Philo, of Alexandria; Cohn, Wendland, Reiter, Leisegang, Berolini G. Reimeri (1896); Philonis Alexandrini Opera quae supersunt. Ediderunt Leopoldus Cohn et Paulus Wendland 7](https://github.com/OpenGreekAndLatin/2013-10-25-07-08_p1philonisalexan07philuoft_jp2_Philo_Gamera_34)
 
 Currently w/o inventory:
 
