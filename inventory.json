@@ -223,5 +223,55 @@
         "name": "Philo, of Alexandria; Cohn, Wendland, Reiter, Leisegang, Berolini G. Reimeri (1896); Philonis Alexandrini Opera quae supersunt. Ediderunt Leopoldus Cohn et Paulus Wendland 7",
         "path": "2013-10-25-07-08_p1philonisalexan07philuoft_jp2_Philo_Gamera_34/2013-10-25-07-08_p1philonisalexan07philuoft_jp2_Philo_Gamera_34.book",
         "hash": "5aaa4769"
+    },
+    {
+    	"name": "Eusebius, of Caesarea, Bishop of Caesarea, ca. 260-ca. 340 et al. (1902). Eusebius Werke 4",
+    	"path": "2013-10-10-16-38_eusebiuswerke04euse_jp2_weidmann_cnn/2013-10-10-16-38_eusebiuswerke04euse_jp2_weidmann_cnn.book",
+    	"hash": "bf0305f3"
+    },
+    {
+    	"name": "Eusebius, of Caesarea, Bishop of Caesarea, ca. 260-ca. 340 et al. (1902). Eusebius Werke 2, pt.1",
+    	"path": "2013-10-10-22-20_p1eusebiuswerke02euse_jp2_weidmann_cnn/2013-10-10-22-20_p1eusebiuswerke02euse_jp2_weidmann_cnn.book",
+    	"hash": "9cc04ed9"
+    },
+    {
+    	"name": "Eusebius, of Caesarea, Bishop of Caesarea, ca. 260-ca. 340 et al. (1902). Eusebius Werke 6",
+    	"path": "2013-10-10-22-24_eusebiuswerke06euse_jp2_weidmann_cnn/2013-10-10-22-24_eusebiuswerke06euse_jp2_weidmann_cnn.book",
+    	"hash": "087415a2"
+    },
+    {
+    	"name": "Kock, Theodor, 1820-1901 (1880-88). Comicorum atticorum fragmenta 2",
+    	"path": "2013-10-13-22-29_comicorumatticor02kockuoft_jp2_Kaibel_Round_4_3/2013-10-13-22-29_comicorumatticor02kockuoft_jp2_Kaibel_Round_4_3.book",
+    	"hash": "ccc790a5"
+    },
+    {
+    	"name": "Kock, Theodor, 1820-1901 (1880-88). Comicorum atticorum fragmenta 1",
+    	"path": "2013-10-13-22-31_comicorumatticor01kockuoft_jp2_Kaibel_Round_4_3/2013-10-13-22-31_comicorumatticor01kockuoft_jp2_Kaibel_Round_4_3.book",
+    	"hash": "a86f6b38"
+    },
+    {
+    	"name": "Theodoret, Bishop of Cyrrhus et al. (1911). Theodoret, Kirchengeschichte",
+    	"path": "2013-11-26-23-25_theodoretkirchen00theo_jp2_weidmann_cnn/2013-11-26-23-25_theodoretkirchen00theo_jp2_weidmann_cnn.book",
+    	"hash": "7e84112b"
+    },
+    {
+    	"name": "Athenaeus, of Naucratis et al. (1858). Deipnosophistae; e recognitione Augusti Meineke 1",
+    	"path": "2014-08-21-13-51_deipnosophistaee01atheuoft_jp2_Kaibel_Round_4/2014-08-21-13-51_deipnosophistaee01atheuoft_jp2_Kaibel_Round_4.book",
+    	"hash": "171647d4"
+    },
+    {
+    	"name": "Athenaeus, of Naucratis et al. (1858). Deipnosophistae; e recognitione Augusti Meineke 2",
+    	"path": "2014-08-21-13-54_deipnosophistaee02atheuoft_jp2_Kaibel_Round_4/2014-08-21-13-54_deipnosophistaee02atheuoft_jp2_Kaibel_Round_4.book",
+    	"hash": "a22eb998"
+    },
+    {
+    	"name": "Athenaeus, of Naucratis et al. (1858). Deipnosophistae; e recognitione Augusti Meineke 3",
+    	"path": "2014-08-21-13-55_deipnosophistaee03atheuoft_jp2_Kaibel_Round_4/2014-08-21-13-55_deipnosophistaee03atheuoft_jp2_Kaibel_Round_4.book",
+    	"hash": "93233a59"
+    },
+    {
+    	"name": "Athenaeus, of Naucratis et al. (1858). Deipnosophistae; e recognitione Augusti Meineke 4",
+    	"path": "2014-08-21-13-57_deipnosophistaee04atheuoft_jp2_Kaibel_Round_4/2014-08-21-13-57_deipnosophistaee04atheuoft_jp2_Kaibel_Round_4.book",
+    	"hash": "eaa2b801"
     }
 ]
