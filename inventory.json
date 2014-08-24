@@ -224,6 +224,46 @@
         "path": "2013-10-25-07-08_p1philonisalexan07philuoft_jp2_Philo_Gamera_34/2013-10-25-07-08_p1philonisalexan07philuoft_jp2_Philo_Gamera_34.book",
         "hash": "5aaa4769"
     },
+	{
+        "name":"Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 5",
+        "path":"2013-10-18-17-25_catenaegraecorum05cramuoft_jp2_Catena/2013-10-18-17-25_catenaegraecorum05cramuoft_jp2_Catena.book",
+        "hash":"33405f69"
+    },
+    {
+        "name":"Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 8",
+        "path":"2013-10-18-17-26_catenaegraecorum08cramuoft_jp2_Catena/2013-10-18-17-26_catenaegraecorum08cramuoft_jp2_Catena.book",
+        "hash":"2dc48583"
+    },
+    {
+        "name":"Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 3",
+        "path":"2013-10-18-17-34_catenaegraecorum03cramuoft_jp2_Catena/2013-10-18-17-34_catenaegraecorum03cramuoft_jp2_Catena.book",
+        "hash":"4732fd68"
+    },
+    {
+        "name":"Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 2",
+        "path":"2013-10-18-17-43_catenaegraecorum02cramuoft_jp2_Catena/2013-10-18-17-43_catenaegraecorum02cramuoft_jp2_Catena.book",
+        "hash":"8ea19db4"
+    },
+    {
+        "name":"Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 7",
+        "path":"2013-10-19-22-02_catenaegraecorum07cramuoft_jp2_Catena/2013-10-19-22-02_catenaegraecorum07cramuoft_jp2_Catena.book",
+        "hash":"3e71e2a4"
+    },
+    {
+        "name":"Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 1",
+        "path":"2013-10-19-22-06_catenaegraecorum01cramuoft_jp2_Catena/2013-10-19-22-06_catenaegraecorum01cramuoft_jp2_Catena.book",
+        "hash":"ede5cc15"
+    },
+    {
+        "name":"Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 4",
+        "path":"2013-10-19-22-11_catenaegraecorum04cramuoft_jp2_Catena/2013-10-19-22-11_catenaegraecorum04cramuoft_jp2_Catena.book",
+        "hash":"54acf2a6"
+    },
+    {
+        "name":"Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 6",
+        "path":"2013-10-19-22-16_catenaegraecorum06cramuoft_jp2_Catena/2013-10-19-22-16_catenaegraecorum06cramuoft_jp2_Catena.book",
+        "hash":"c28db0a6"
+    },
     {
     	"name": "Eusebius, of Caesarea, Bishop of Caesarea, ca. 260-ca. 340 et al. (1902). Eusebius Werke 4",
     	"path": "2013-10-10-16-38_eusebiuswerke04euse_jp2_weidmann_cnn/2013-10-10-16-38_eusebiuswerke04euse_jp2_weidmann_cnn.book",
@@ -273,5 +313,5 @@
     	"name": "Athenaeus, of Naucratis et al. (1858). Deipnosophistae; e recognitione Augusti Meineke 4",
     	"path": "2014-08-21-13-57_deipnosophistaee04atheuoft_jp2_Kaibel_Round_4/2014-08-21-13-57_deipnosophistaee04atheuoft_jp2_Kaibel_Round_4.book",
     	"hash": "eaa2b801"
-    }
+	}
 ]

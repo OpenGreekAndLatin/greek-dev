@@ -54,6 +54,14 @@ The current state is: *to be manually corrected*. The TOC is ordered according t
 * [Philo, of Alexandria; Cohn, Wendland, Reiter, Leisegang, Berolini G. Reimeri (1896); Philonis Alexandrini Opera quae supersunt. Ediderunt Leopoldus Cohn et Paulus Wendland 1-3](https://github.com/OpenGreekAndLatin/2013-10-22-21-10_philonisalexandr0103philuoft_jp2_Philo_Gamera_34)
 * [Philo, of Alexandria; Cohn, Wendland, Reiter, Leisegang, Berolini G. Reimeri (1896); Philonis Alexandrini Opera quae supersunt. Ediderunt Leopoldus Cohn et Paulus Wendland 4-6](https://github.com/OpenGreekAndLatin/2013-10-24-09-40_philonisalexandr0406philuoft_jp2_Philo_Gamera_34)
 * [Philo, of Alexandria; Cohn, Wendland, Reiter, Leisegang, Berolini G. Reimeri (1896); Philonis Alexandrini Opera quae supersunt. Ediderunt Leopoldus Cohn et Paulus Wendland 7](https://github.com/OpenGreekAndLatin/2013-10-25-07-08_p1philonisalexan07philuoft_jp2_Philo_Gamera_34)
+* [Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 1](https://github.com/OpenGreekAndLatin/2013-10-19-22-06_catenaegraecorum01cramuoft_jp2_Catena)
+* [Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 2](https://github.com/OpenGreekAndLatin/2013-10-18-17-43_catenaegraecorum02cramuoft_jp2_Catena)
+* [Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 3](https://github.com/OpenGreekAndLatin/2013-10-18-17-34_catenaegraecorum03cramuoft_jp2_Catena)
+* [Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 4](https://github.com/OpenGreekAndLatin/2013-10-19-22-11_catenaegraecorum04cramuoft_jp2_Catena)
+* [Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 5](https://github.com/OpenGreekAndLatin/2013-10-18-17-25_catenaegraecorum05cramuoft_jp2_Catena)
+* [Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 6](https://github.com/OpenGreekAndLatin/2013-10-19-22-16_catenaegraecorum06cramuoft_jp2_Catena)
+* [Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 7](https://github.com/OpenGreekAndLatin/2013-10-19-22-02_catenaegraecorum07cramuoft_jp2_Catena)
+* [Cramer, J. A. (John Anthony) (1844); Catenae Graecorum patrum in Novum Testamentum 8](https://github.com/OpenGreekAndLatin/2013-10-18-17-26_catenaegraecorum08cramuoft_jp2_Catena)
 
 Currently w/o inventory:
 
