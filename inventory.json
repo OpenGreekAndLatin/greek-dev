@@ -398,5 +398,25 @@
         "name":"Peter, Hermann Wilhelm Gottlob (1914); Historicorum romanorum reliquiae. Iteratis curis disposuit recensuit praefatus est 1",
         "path":"2014-02-11-10-12_historicorumroma01peteuoft_jp2_Kaibel_Round_4_3/2014-02-11-10-12_historicorumroma01peteuoft_jp2_Kaibel_Round_4_3.book",
         "hash":"cb0d1efb"
+    },
+    {
+        "name":"Nauck, August (1889); Tragicorum graecorum fragmenta",
+        "path":"2013-02-02-10-00_tragicorumgraeco00naucuoft_Kaibel_Round_4/2013-02-02-10-00_tragicorumgraeco00naucuoft_Kaibel_Round_4.book",
+        "hash":"92159435"
+    },
+    {
+        "name":"Gregory, of Nazianzus, Saint, Brambs, Johann Georg (1885); Christus Patiens; tragoedia christiana, quae inscribi solet [christos paschon]",
+        "path":"2013-02-11-18-38_christuspatienst00greguoft_Kaibel_Round_4/2013-02-11-18-38_christuspatienst00greguoft_Kaibel_Round_4.book",
+        "hash":"16ee7cae"
+    },
+    {
+        "name":"Swete, Henry Barclay (1896-1905); The Old Testament in Greek according to the Septuagint 1",
+        "path":"2013-10-15-08-41_oldtestamentingr01swetuoft_OCT7/2013-10-15-08-41_oldtestamentingr01swetuoft_OCT7.book",
+        "hash":"ca489a88"
+    },
+    {
+        "name":"Swete, Henry Barclay (1907-1912 [v. 1, 1909); The Old Testament in Greek according to the Septuagint",
+        "path":"2013-10-21-20-38_oldtestgreek00unknuoft_OCT7_rev/2013-10-21-20-38_oldtestgreek00unknuoft_OCT7_rev.book",
+        "hash":"f722a68a"
     }
 ]

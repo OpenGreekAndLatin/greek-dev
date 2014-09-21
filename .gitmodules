@@ -241,3 +241,15 @@
 [submodule "2014-02-11-10-12_historicorumroma01peteuoft_jp2_Kaibel_Round_4_3"]
 	path = 2014-02-11-10-12_historicorumroma01peteuoft_jp2_Kaibel_Round_4_3
 	url = https://github.com/OpenGreekAndLatin/2014-02-11-10-12_historicorumroma01peteuoft_jp2_Kaibel_Round_4_3
+[submodule "2013-02-02-10-00_tragicorumgraeco00naucuoft_Kaibel_Round_4"]
+	path = 2013-02-02-10-00_tragicorumgraeco00naucuoft_Kaibel_Round_4
+	url = https://github.com/OpenGreekAndLAtin/2013-02-02-10-00_tragicorumgraeco00naucuoft_Kaibel_Round_4
+[submodule "2013-02-11-18-38_christuspatienst00greguoft_Kaibel_Round_4"]
+	path = 2013-02-11-18-38_christuspatienst00greguoft_Kaibel_Round_4
+	url = https://github.com/OpenGreekAndLAtin/2013-02-11-18-38_christuspatienst00greguoft_Kaibel_Round_4
+[submodule "2013-10-15-08-41_oldtestamentingr01swetuoft_OCT7"]
+	path = 2013-10-15-08-41_oldtestamentingr01swetuoft_OCT7
+	url = https://github.com/OpenGreekAndLAtin/2013-10-15-08-41_oldtestamentingr01swetuoft_OCT7
+[submodule "2013-10-21-20-38_oldtestgreek00unknuoft_OCT7_rev"]
+	path = 2013-10-21-20-38_oldtestgreek00unknuoft_OCT7_rev
+	url = https://github.com/OpenGreekAndLAtin/2013-10-21-20-38_oldtestgreek00unknuoft_OCT7_rev
