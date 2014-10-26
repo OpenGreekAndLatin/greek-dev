@@ -340,3 +340,15 @@
 [submodule "2013-02-01-22-05_alexiasemper00comnuoft_Kaibel_Round_4"]
 	path = 2013-02-01-22-05_alexiasemper00comnuoft_Kaibel_Round_4
 	url = https://github.com/OpenGreekAndLatin/2013-02-01-22-05_alexiasemper00comnuoft_Kaibel_Round_4
+[submodule "2013-07-20-18-24_corpusscriptorum01niebuoft_jp2_weidmann4"]
+	path = 2013-07-20-18-24_corpusscriptorum01niebuoft_jp2_weidmann4
+	url = https://github.com/OpenGreekAndLatin/2013-07-20-18-24_corpusscriptorum01niebuoft_jp2_weidmann4.git
+[submodule "2013-07-21-07-36_corpusscriptorum02niebuoft_jp2_weidmann4"]
+	path = 2013-07-21-07-36_corpusscriptorum02niebuoft_jp2_weidmann4
+	url = https://github.com/OpenGreekAndLatin/2013-07-21-07-36_corpusscriptorum02niebuoft_jp2_weidmann4.git
+[submodule "2013-07-21-13-05_corpusscriptorum03niebuoft_jp2_weidmann4"]
+	path = 2013-07-21-13-05_corpusscriptorum03niebuoft_jp2_weidmann4
+	url = https://github.com/OpenGreekAndLatin/2013-07-21-13-05_corpusscriptorum03niebuoft_jp2_weidmann4.git
+[submodule "2013-07-21-13-28_corpusscriptorum04nieb_jp2_weidmann4"]
+	path = 2013-07-21-13-28_corpusscriptorum04nieb_jp2_weidmann4
+	url = https://github.com/OpenGreekAndLatin/2013-07-21-13-28_corpusscriptorum04nieb_jp2_weidmann4.git

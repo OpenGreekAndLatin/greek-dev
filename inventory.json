@@ -563,5 +563,25 @@
         "name":"Comnena, Anna, b. 1083, Reifferscheid, August (1884); Alexias",
         "path":"2013-02-01-22-05_alexiasemper00comnuoft_Kaibel_Round_4/2013-02-01-22-05_alexiasemper00comnuoft_Kaibel_Round_4.book",
         "hash":"d0acbcb1"
+    },
+    {
+	"name":"Niebuhr, Barthold Georg, Akademie der Wissenschaften, Berlin (1828); Corpus scriptorum historiae byzantinae. Editio emendatior et copiosior. consilio B.G. Niebuhrii 1",
+	"path":"2013-07-20-18-24_corpusscriptorum01niebuoft_jp2_weidmann4/2013-07-20-18-24_corpusscriptorum01niebuoft_jp2_weidmann4.book",
+	"hash":"a66bebbf"
+    },
+    {
+	"name":"Niebuhr, Barthold Georg, Akademie der Wissenschaften, Berlin (1828); Corpus scriptorum historiae byzantinae. Editio emendatior et copiosior. consilio B.G. Niebuhrii 2",
+	"path":"2013-07-21-07-36_corpusscriptorum02niebuoft_jp2_weidmann4/2013-07-21-07-36_corpusscriptorum02niebuoft_jp2_weidmann4.book",
+	"hash":"0ddef84a"
+    },
+    {
+	"name":"Niebuhr, Barthold Georg, Akademie der Wissenschaften, Berlin (1828); Corpus scriptorum historiae byzantinae. Editio emendatior et copiosior. consilio B.G. Niebuhrii 3",
+	"path":"2013-07-21-13-05_corpusscriptorum03niebuoft_jp2_weidmann4/2013-07-21-13-05_corpusscriptorum03niebuoft_jp2_weidmann4.book",
+	"hash":"80a09753"
+    },
+    {
+	"name":"Niebuhr, Barthold Georg, Akademie der Wissenschaften, Berlin (1828); Corpus scriptorum historiae byzantinae. Editio emendatior et copiosior. consilio B.G. Niebuhrii 4",
+	"path":"2013-07-21-13-28_corpusscriptorum04nieb_jp2_weidmann4/2013-07-21-13-28_corpusscriptorum04nieb_jp2_weidmann4.book",
+	"hash":"4a2604ea"
     }
 ]
