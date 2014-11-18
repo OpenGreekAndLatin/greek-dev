@@ -1,12 +1,3 @@
-[submodule "2013-07-18-09-02_operaquaesupersu04phil_jp2_Philo_Gamera_34"]
-	path = 2013-07-18-09-02_operaquaesupersu04phil_jp2_Philo_Gamera_34
-	url = https://dddgit@github.com/OpenGreekAndLatin/2013-07-18-09-02_operaquaesupersu04phil_jp2_Philo_Gamera_34.git
-[submodule "2013-07-26-07-41_operarecensuitri10libauoft_jp2_Kaibel_Round_4"]
-	path = 2013-07-26-07-41_operarecensuitri10libauoft_jp2_Kaibel_Round_4
-	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-07-26-07-41_operarecensuitri10libauoft_jp2_Kaibel_Round_4.git
-[submodule "2013-07-26-16-29_libaniiopera02foergoog_jp2_Kaibel_Round_4"]
-	path = 2013-07-26-16-29_libaniiopera02foergoog_jp2_Kaibel_Round_4
-	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-07-26-16-29_libaniiopera02foergoog_jp2_Kaibel_Round_4.git
 [submodule "2013-07-26-16-41_libaniiopera00foergoog_jp2_Kaibel_Round_4"]
 	path = 2013-07-26-16-41_libaniiopera00foergoog_jp2_Kaibel_Round_4
 	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-07-26-16-41_libaniiopera00foergoog_jp2_Kaibel_Round_4.git
@@ -19,15 +10,9 @@
 [submodule "2013-08-15-07-51_operarecensuitri01libauoft_jp2_Kaibel_Round_4_3"]
 	path = 2013-08-15-07-51_operarecensuitri01libauoft_jp2_Kaibel_Round_4_3
 	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-08-15-07-51_operarecensuitri01libauoft_jp2_Kaibel_Round_4_3.git
-[submodule "2013-08-17-11-05_athenaeinavcrati03atheuoft_jp2_Kaibel_Round_4_3"]
-	path = 2013-08-17-11-05_athenaeinavcrati03atheuoft_jp2_Kaibel_Round_4_3
-	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-08-17-11-05_athenaeinavcrati03atheuoft_jp2_Kaibel_Round_4_3.git
 [submodule "2013-08-18-13-55_pt2operarecensu01libauoft_jp2_Kaibel_Round_4_3"]
 	path = 2013-08-18-13-55_pt2operarecensu01libauoft_jp2_Kaibel_Round_4_3
 	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-08-18-13-55_pt2operarecensu01libauoft_jp2_Kaibel_Round_4_3.git
-[submodule "2013-08-23-09-14_operarecensuitri07libauoft_jp2_Kaibel_Round_4_3"]
-	path = 2013-08-23-09-14_operarecensuitri07libauoft_jp2_Kaibel_Round_4_3
-	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-08-23-09-14_operarecensuitri07libauoft_jp2_Kaibel_Round_4_3.git
 [submodule "2013-08-23-09-15_operarecensuitri03libauoft_jp2_Kaibel_Round_4_3"]
 	path = 2013-08-23-09-15_operarecensuitri03libauoft_jp2_Kaibel_Round_4_3
 	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-08-23-09-15_operarecensuitri03libauoft_jp2_Kaibel_Round_4_3.git
@@ -43,9 +28,6 @@
 [submodule "2013-08-26-14-21_operarecensuitri06libauoft_jp2_Kaibel_Round_4_3"]
 	path = 2013-08-26-14-21_operarecensuitri06libauoft_jp2_Kaibel_Round_4_3
 	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-08-26-14-21_operarecensuitri06libauoft_jp2_Kaibel_Round_4_3.git
-[submodule "2013-10-05-15-44_athenaeinavcrati01atheuoft_jp2_Kaibel_Round_4_3"]
-	path = 2013-10-05-15-44_athenaeinavcrati01atheuoft_jp2_Kaibel_Round_4_3
-	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-10-05-15-44_athenaeinavcrati01atheuoft_jp2_Kaibel_Round_4_3.git
 [submodule "2013-10-05-15-45_athenaeinavcrati02atheuoft_jp2_Kaibel_Round_4_3"]
 	path = 2013-10-05-15-45_athenaeinavcrati02atheuoft_jp2_Kaibel_Round_4_3
 	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-10-05-15-45_athenaeinavcrati02atheuoft_jp2_Kaibel_Round_4_3.git
@@ -55,165 +37,21 @@
 [submodule "2013-10-24-14-51_acriticalandexe02gloauoft_jp2_OCT7_acriticalandexe02gloauoft"]
 	path = 2013-10-24-14-51_acriticalandexe02gloauoft_jp2_OCT7_acriticalandexe02gloauoft
 	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-10-24-14-51_acriticalandexe02gloauoft_jp2_OCT7_acriticalandexe02gloauoft.git
-[submodule "2013-11-24-17-53_commentariaina09akaduoft_jp2_Philo_Gamera_34"]
-	path = 2013-11-24-17-53_commentariaina09akaduoft_jp2_Philo_Gamera_34
-	url = https://fbaumgardt@github.com/OpenGreekAndLatin/2013-11-24-17-53_commentariaina09akaduoft_jp2_Philo_Gamera_34.git
-[submodule "2013-11-25-16-38_p2commentariainari03bero_jp2_Philo_Gamera_34"]
-	path = 2013-11-25-16-38_p2commentariainari03bero_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-11-25-16-38_p2commentariainari03bero_jp2_Philo_Gamera_34
-[submodule "2013-11-25-16-35_commentariaina17akaduoft_jp2_Philo_Gamera_34"]
-	path = 2013-11-25-16-35_commentariaina17akaduoft_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-11-25-16-35_commentariaina17akaduoft_jp2_Philo_Gamera_34
-[submodule "2013-11-25-16-34_p2commentariainari01bero_jp2_Philo_Gamera_34"]
-	path = 2013-11-25-16-34_p2commentariainari01bero_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-11-25-16-34_p2commentariainari01bero_jp2_Philo_Gamera_34
-[submodule "2013-11-25-09-21_commentariaina19pt12akaduoft_jp2_Philo_Gamera_34"]
-	path = 2013-11-25-09-21_commentariaina19pt12akaduoft_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-11-25-09-21_commentariaina19pt12akaduoft_jp2_Philo_Gamera_34
 [submodule "2013-11-24-17-48_commentariainari20bero_jp2_Philo_Gamera_34"]
 	path = 2013-11-24-17-48_commentariainari20bero_jp2_Philo_Gamera_34
 	url = https://github.com/OpenGreekAndLatin/2013-11-24-17-48_commentariainari20bero_jp2_Philo_Gamera_34
-[submodule "2013-11-23-20-28_p1commentariaina22akaduoft_jp2_Philo_Gamera_34"]
-	path = 2013-11-23-20-28_p1commentariaina22akaduoft_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-11-23-20-28_p1commentariaina22akaduoft_jp2_Philo_Gamera_34
 [submodule "2013-11-22-06-34_commentariaina05pt13akaduoft_jp2_Philo_Gamera_34"]
 	path = 2013-11-22-06-34_commentariaina05pt13akaduoft_jp2_Philo_Gamera_34
 	url = https://github.com/OpenGreekAndLatin/2013-11-22-06-34_commentariaina05pt13akaduoft_jp2_Philo_Gamera_34
-[submodule "2013-11-21-13-37_p3commentariainari02bero_jp2_Philo_Gamera_34"]
-	path = 2013-11-21-13-37_p3commentariainari02bero_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-11-21-13-37_p3commentariainari02bero_jp2_Philo_Gamera_34
-[submodule "2013-11-21-13-36_p1commentariainari03bero_jp2_Philo_Gamera_34"]
-	path = 2013-11-21-13-36_p1commentariainari03bero_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-11-21-13-36_p1commentariainari03bero_jp2_Philo_Gamera_34
-[submodule "2013-07-01-03-39_commentariainari23akaduoft_jp2_Philo_Gamera_34"]
-	path = 2013-07-01-03-39_commentariainari23akaduoft_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-07-01-03-39_commentariainari23akaduoft_jp2_Philo_Gamera_34
-[submodule "2013-07-01-03-31_commentariaina14pt13akaduoft_jp2_Philo_Gamera_34"]
-	path = 2013-07-01-03-31_commentariaina14pt13akaduoft_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-07-01-03-31_commentariaina14pt13akaduoft_jp2_Philo_Gamera_34
-[submodule "2013-07-01-03-30_commentariaina21pt12akaduoft_jp2_Philo_Gamera_34"]
-	path = 2013-07-01-03-30_commentariaina21pt12akaduoft_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-07-01-03-30_commentariaina21pt12akaduoft_jp2_Philo_Gamera_34
-[submodule "2013-06-12-12-56_p1commentariainari02bero_jp2_Philo_Gamera_34"]
-	path = 2013-06-12-12-56_p1commentariainari02bero_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-06-12-12-56_p1commentariainari02bero_jp2_Philo_Gamera_34
-[submodule "2013-06-10-17-13_commentariainari04akaduoft_jp2_Philo_Gamera_34"]
-	path = 2013-06-10-17-13_commentariainari04akaduoft_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-06-10-17-13_commentariainari04akaduoft_jp2_Philo_Gamera_34
-[submodule "2013-06-10-17-11_p1commentariainari01bero_jp2_Philo_Gamera_34"]
-	path = 2013-06-10-17-11_p1commentariainari01bero_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-06-10-17-11_p1commentariainari01bero_jp2_Philo_Gamera_34
-[submodule "2013-06-10-17-09_p2commentariainari02bero_jp2_Philo_Gamera_34"]
-	path = 2013-06-10-17-09_p2commentariainari02bero_jp2_Philo_Gamera_34
-	url = https://github.com/OpenGreekAndLatin/2013-06-10-17-09_p2commentariainari02bero_jp2_Philo_Gamera_34
-[submodule "2013-07-18-09-02_operaquaesupersu02phil_jp2_Philo_Gamera_34"]
-	path = 2013-07-18-09-02_operaquaesupersu02phil_jp2_Philo_Gamera_34
-	url = https://@github.com/OpenGreekAndLatin/2013-07-18-09-02_operaquaesupersu02phil_jp2_Philo_Gamera_34.git
 [submodule "2013-10-10-01-21_operaomnia05phil_jp2_weidmann_cnn"]
 	path = 2013-10-10-01-21_operaomnia05phil_jp2_weidmann_cnn
 	url = https://@github.com/OpenGreekAndLatin/2013-10-10-01-21_operaomnia05phil_jp2_weidmann_cnn.git
-[submodule "2013-10-10-14-04_aboutcontemplati00philuoft_jp2_GreekLex"]
-	path = 2013-10-10-14-04_aboutcontemplati00philuoft_jp2_GreekLex
-	url = https://@github.com/OpenGreekAndLatin/2013-10-10-14-04_aboutcontemplati00philuoft_jp2_GreekLex.git
-[submodule "2013-10-22-08-26_fragmentsnewlyed00philuoft_jp2_OCT7_rev"]
-	path = 2013-10-22-08-26_fragmentsnewlyed00philuoft_jp2_OCT7_rev
-	url = https://@github.com/OpenGreekAndLatin/2013-10-22-08-26_fragmentsnewlyed00philuoft_jp2_OCT7_rev.git
-[submodule "2013-10-22-08-29_operaquaesupersu01phil_jp2_Philo_Gamera_34"]
-	path = 2013-10-22-08-29_operaquaesupersu01phil_jp2_Philo_Gamera_34
-	url = https://@github.com/OpenGreekAndLatin/2013-10-22-08-29_operaquaesupersu01phil_jp2_Philo_Gamera_34.git
-[submodule "2013-10-22-21-06_operaquaesupersu03phil_jp2_Philo_Gamera_34"]
-	path = 2013-10-22-21-06_operaquaesupersu03phil_jp2_Philo_Gamera_34
-	url = https://@github.com/OpenGreekAndLatin/2013-10-22-21-06_operaquaesupersu03phil_jp2_Philo_Gamera_34.git
-[submodule "2013-10-22-21-06_operaquaesupersu06phil_jp2_Philo_Gamera_34"]
-	path = 2013-10-22-21-06_operaquaesupersu06phil_jp2_Philo_Gamera_34
-	url = https://@github.com/OpenGreekAndLatin/2013-10-22-21-06_operaquaesupersu06phil_jp2_Philo_Gamera_34.git
-[submodule "2013-10-22-21-10_philonisalexandr0103philuoft_jp2_Philo_Gamera_34"]
-	path = 2013-10-22-21-10_philonisalexandr0103philuoft_jp2_Philo_Gamera_34
-	url = https://@github.com/OpenGreekAndLatin/2013-10-22-21-10_philonisalexandr0103philuoft_jp2_Philo_Gamera_34.git
-[submodule "2013-10-24-09-40_philonisalexandr0406philuoft_jp2_Philo_Gamera_34"]
-	path = 2013-10-24-09-40_philonisalexandr0406philuoft_jp2_Philo_Gamera_34
-	url = https://@github.com/OpenGreekAndLatin/2013-10-24-09-40_philonisalexandr0406philuoft_jp2_Philo_Gamera_34.git
-[submodule "2013-10-25-07-08_p1philonisalexan07philuoft_jp2_Philo_Gamera_34"]
-	path = 2013-10-25-07-08_p1philonisalexan07philuoft_jp2_Philo_Gamera_34
-	url = https://@github.com/OpenGreekAndLatin/2013-10-25-07-08_p1philonisalexan07philuoft_jp2_Philo_Gamera_34.git
-[submodule "2013-10-10-16-38_eusebiuswerke04euse_jp2_weidmann_cnn"]
-	path = 2013-10-10-16-38_eusebiuswerke04euse_jp2_weidmann_cnn
-	url = https://github.com/OpenGreekAndLatin/2013-10-10-16-38_eusebiuswerke04euse_jp2_weidmann_cnn
-[submodule "2013-10-10-22-20_p1eusebiuswerke02euse_jp2_weidmann_cnn"]
-	path = 2013-10-10-22-20_p1eusebiuswerke02euse_jp2_weidmann_cnn
-	url = https://github.com/OpenGreekAndLatin/2013-10-10-22-20_p1eusebiuswerke02euse_jp2_weidmann_cnn
-[submodule "2013-10-10-22-24_eusebiuswerke06euse_jp2_weidmann_cnn"]
-	path = 2013-10-10-22-24_eusebiuswerke06euse_jp2_weidmann_cnn
-	url = https://github.com/OpenGreekAndLatin/2013-10-10-22-24_eusebiuswerke06euse_jp2_weidmann_cnn
-[submodule "2013-10-13-22-29_comicorumatticor02kockuoft_jp2_Kaibel_Round_4_3"]
-	path = 2013-10-13-22-29_comicorumatticor02kockuoft_jp2_Kaibel_Round_4_3
-	url = https://github.com/OpenGreekAndLatin/2013-10-13-22-29_comicorumatticor02kockuoft_jp2_Kaibel_Round_4_3
-[submodule "2013-10-13-22-31_comicorumatticor01kockuoft_jp2_Kaibel_Round_4_3"]
-	path = 2013-10-13-22-31_comicorumatticor01kockuoft_jp2_Kaibel_Round_4_3
-	url = https://github.com/OpenGreekAndLatin/2013-10-13-22-31_comicorumatticor01kockuoft_jp2_Kaibel_Round_4_3
 [submodule "2013-11-26-23-25_theodoretkirchen00theo_jp2_weidmann_cnn"]
 	path = 2013-11-26-23-25_theodoretkirchen00theo_jp2_weidmann_cnn
 	url = https://github.com/OpenGreekAndLatin/2013-11-26-23-25_theodoretkirchen00theo_jp2_weidmann_cnn
-[submodule "2014-08-21-13-51_deipnosophistaee01atheuoft_jp2_Kaibel_Round_4"]
-	path = 2014-08-21-13-51_deipnosophistaee01atheuoft_jp2_Kaibel_Round_4
-	url = https://github.com/OpenGreekAndLatin/2014-08-21-13-51_deipnosophistaee01atheuoft_jp2_Kaibel_Round_4
-[submodule "2014-08-21-13-54_deipnosophistaee02atheuoft_jp2_Kaibel_Round_4"]
-	path = 2014-08-21-13-54_deipnosophistaee02atheuoft_jp2_Kaibel_Round_4
-	url = https://github.com/OpenGreekAndLatin/2014-08-21-13-54_deipnosophistaee02atheuoft_jp2_Kaibel_Round_4
-[submodule "2014-08-21-13-55_deipnosophistaee03atheuoft_jp2_Kaibel_Round_4"]
-	path = 2014-08-21-13-55_deipnosophistaee03atheuoft_jp2_Kaibel_Round_4
-	url = https://github.com/OpenGreekAndLatin/2014-08-21-13-55_deipnosophistaee03atheuoft_jp2_Kaibel_Round_4
-[submodule "2014-08-21-13-57_deipnosophistaee04atheuoft_jp2_Kaibel_Round_4"]
-	path = 2014-08-21-13-57_deipnosophistaee04atheuoft_jp2_Kaibel_Round_4
-	url = https://github.com/OpenGreekAndLatin/2014-08-21-13-57_deipnosophistaee04atheuoft_jp2_Kaibel_Round_4
-[submodule "2013-10-18-17-25_catenaegraecorum05cramuoft_jp2_Catena"]
-	path = 2013-10-18-17-25_catenaegraecorum05cramuoft_jp2_Catena
-	url = https://github.com/OpenGreekAndLatin/2013-10-18-17-25_catenaegraecorum05cramuoft_jp2_Catena.git
-[submodule "2013-10-18-17-43_catenaegraecorum02cramuoft_jp2_Catena"]
-	path = 2013-10-18-17-43_catenaegraecorum02cramuoft_jp2_Catena
-	url = https://github.com/OpenGreekAndLatin/2013-10-18-17-43_catenaegraecorum02cramuoft_jp2_Catena.git
-[submodule "2013-10-19-22-11_catenaegraecorum04cramuoft_jp2_Catena"]
-	path = 2013-10-19-22-11_catenaegraecorum04cramuoft_jp2_Catena
-	url = https://github.com/OpenGreekAndLatin/2013-10-19-22-11_catenaegraecorum04cramuoft_jp2_Catena.git
-[submodule "2013-10-18-17-26_catenaegraecorum08cramuoft_jp2_Catena"]
-	path = 2013-10-18-17-26_catenaegraecorum08cramuoft_jp2_Catena
-	url = https://github.com/OpenGreekAndLatin/2013-10-18-17-26_catenaegraecorum08cramuoft_jp2_Catena.git
-[submodule "2013-10-19-22-02_catenaegraecorum07cramuoft_jp2_Catena"]
-	path = 2013-10-19-22-02_catenaegraecorum07cramuoft_jp2_Catena
-	url = https://github.com/OpenGreekAndLatin/2013-10-19-22-02_catenaegraecorum07cramuoft_jp2_Catena.git
-[submodule "2013-10-19-22-16_catenaegraecorum06cramuoft_jp2_Catena"]
-	path = 2013-10-19-22-16_catenaegraecorum06cramuoft_jp2_Catena
-	url = https://github.com/OpenGreekAndLatin/2013-10-19-22-16_catenaegraecorum06cramuoft_jp2_Catena.git
-[submodule "2013-10-18-17-34_catenaegraecorum03cramuoft_jp2_Catena"]
-	path = 2013-10-18-17-34_catenaegraecorum03cramuoft_jp2_Catena
-	url = https://github.com/OpenGreekAndLatin/2013-10-18-17-34_catenaegraecorum03cramuoft_jp2_Catena.git
-[submodule "2013-10-19-22-06_catenaegraecorum01cramuoft_jp2_Catena"]
-	path = 2013-10-19-22-06_catenaegraecorum01cramuoft_jp2_Catena
-	url = https://github.com/OpenGreekAndLatin/2013-10-19-22-06_catenaegraecorum01cramuoft_jp2_Catena.git
-[submodule "2013-02-02-09-57_poetaelyricigrae02berguoft_jp2_Kaibel_Round_4"]
-	path = 2013-02-02-09-57_poetaelyricigrae02berguoft_jp2_Kaibel_Round_4
-	url = https://github.com/OpenGreekAndLatin/2013-02-02-09-57_poetaelyricigrae02berguoft_jp2_Kaibel_Round_4
 [submodule "2013-02-02-09-57_poetaelyricigrae03berguoft_jp2_Kaibel_Round_4"]
 	path = 2013-02-02-09-57_poetaelyricigrae03berguoft_jp2_Kaibel_Round_4
 	url = https://github.com/OpenGreekAndLatin/2013-02-02-09-57_poetaelyricigrae03berguoft_jp2_Kaibel_Round_4
-[submodule "2013-02-02-09-57_stoicorumveterum01arniuoft_jp2_Kaibel_Round_4"]
-	path = 2013-02-02-09-57_stoicorumveterum01arniuoft_jp2_Kaibel_Round_4
-	url = https://github.com/OpenGreekAndLatin/2013-02-02-09-57_stoicorumveterum01arniuoft_jp2_Kaibel_Round_4
-[submodule "2013-02-02-09-57_stoicorumveterum02arniuoft_jp2_Kaibel_Round_4"]
-	path = 2013-02-02-09-57_stoicorumveterum02arniuoft_jp2_Kaibel_Round_4
-	url = https://github.com/OpenGreekAndLatin/2013-02-02-09-57_stoicorumveterum02arniuoft_jp2_Kaibel_Round_4
-[submodule "2013-02-02-09-57_stoicorumveterum03arniuoft_jp2_Kaibel_Round_4"]
-	path = 2013-02-02-09-57_stoicorumveterum03arniuoft_jp2_Kaibel_Round_4
-	url = https://github.com/OpenGreekAndLatin/2013-02-02-09-57_stoicorumveterum03arniuoft_jp2_Kaibel_Round_4
-[submodule "2013-02-27-22-15_comicorumatticor03kockuoft_jp2_Kaibel_Round_4"]
-	path = 2013-02-27-22-15_comicorumatticor03kockuoft_jp2_Kaibel_Round_4
-	url = https://github.com/OpenGreekAndLatin/2013-02-27-22-15_comicorumatticor03kockuoft_jp2_Kaibel_Round_4
-[submodule "2013-03-22-22-12_epicorumgraecoru00kinkuoft_jp2_Kaibel_Round_4"]
-	path = 2013-03-22-22-12_epicorumgraecoru00kinkuoft_jp2_Kaibel_Round_4
-	url = https://github.com/OpenGreekAndLatin/2013-03-22-22-12_epicorumgraecoru00kinkuoft_jp2_Kaibel_Round_4
-[submodule "2013-08-02-14-39_fragmentacomicor03meinuoft_jp2_weidmann4"]
-	path = 2013-08-02-14-39_fragmentacomicor03meinuoft_jp2_weidmann4
-	url = https://github.com/OpenGreekAndLatin/2013-08-02-14-39_fragmentacomicor03meinuoft_jp2_weidmann4
 [submodule "2013-08-22-12-45_sextiempiriciope12sext_jp2_Kaibel_Round_4_3"]
 	path = 2013-08-22-12-45_sextiempiriciope12sext_jp2_Kaibel_Round_4_3
 	url = https://github.com/OpenGreekAndLatin/2013-08-22-12-45_sextiempiriciope12sext_jp2_Kaibel_Round_4_3
@@ -223,39 +61,18 @@
 [submodule "2013-09-23-08-15_pt1poetaelyricig01berguoft_jp2_TeubnerSans_2012_12_29_no_sigmas_cnn"]
 	path = 2013-09-23-08-15_pt1poetaelyricig01berguoft_jp2_TeubnerSans_2012_12_29_no_sigmas_cnn
 	url = https://github.com/OpenGreekAndLatin/2013-09-23-08-15_pt1poetaelyricig01berguoft_jp2_TeubnerSans_2012_12_29_no_sigmas_cnn
-[submodule "2013-10-23-12-06_ecclesiasticusgr00hart_jp2_OCT7_rev"]
-	path = 2013-10-23-12-06_ecclesiasticusgr00hart_jp2_OCT7_rev
-	url = https://github.com/OpenGreekAndLatin/2013-10-23-12-06_ecclesiasticusgr00hart_jp2_OCT7_rev
-[submodule "2013-11-15-13-44_veterumhistorico02peteuoft_jp2_Kaibel_Round_4_3"]
-	path = 2013-11-15-13-44_veterumhistorico02peteuoft_jp2_Kaibel_Round_4_3
-	url = https://github.com/OpenGreekAndLatin/2013-11-15-13-44_veterumhistorico02peteuoft_jp2_Kaibel_Round_4_3
-[submodule "2013-12-13-11-20_diefragmenteder02diel_jp2_TeubnerSans_2012_12_29_no_lunate_sigma_mnn"]
-	path = 2013-12-13-11-20_diefragmenteder02diel_jp2_TeubnerSans_2012_12_29_no_lunate_sigma_mnn
-	url = https://github.com/OpenGreekAndLatin/2013-12-13-11-20_diefragmenteder02diel_jp2_TeubnerSans_2012_12_29_no_lunate_sigma_mnn
 [submodule "2013-12-14-06-44_diefragmentede01diel_jp2_TeubnerSans_2012_12_29_no_lunate_sigma_mnn"]
 	path = 2013-12-14-06-44_diefragmentede01diel_jp2_TeubnerSans_2012_12_29_no_lunate_sigma_mnn
 	url = https://github.com/OpenGreekAndLatin/2013-12-14-06-44_diefragmentede01diel_jp2_TeubnerSans_2012_12_29_no_lunate_sigma_mnn
-[submodule "2013-12-22-16-15_fivetheological00greg_jp2_OCT7_rev"]
-	path = 2013-12-22-16-15_fivetheological00greg_jp2_OCT7_rev
-	url = https://github.com/OpenGreekAndLatin/2013-12-22-16-15_fivetheological00greg_jp2_OCT7_rev
-[submodule "2014-02-11-10-12_historicorumroma01peteuoft_jp2_Kaibel_Round_4_3"]
-	path = 2014-02-11-10-12_historicorumroma01peteuoft_jp2_Kaibel_Round_4_3
-	url = https://github.com/OpenGreekAndLatin/2014-02-11-10-12_historicorumroma01peteuoft_jp2_Kaibel_Round_4_3
 [submodule "2013-02-02-10-00_tragicorumgraeco00naucuoft_Kaibel_Round_4"]
 	path = 2013-02-02-10-00_tragicorumgraeco00naucuoft_Kaibel_Round_4
 	url = https://github.com/OpenGreekAndLAtin/2013-02-02-10-00_tragicorumgraeco00naucuoft_Kaibel_Round_4
-[submodule "2013-02-11-18-38_christuspatienst00greguoft_Kaibel_Round_4"]
-	path = 2013-02-11-18-38_christuspatienst00greguoft_Kaibel_Round_4
-	url = https://github.com/OpenGreekAndLAtin/2013-02-11-18-38_christuspatienst00greguoft_Kaibel_Round_4
 [submodule "2013-10-15-08-41_oldtestamentingr01swetuoft_OCT7"]
 	path = 2013-10-15-08-41_oldtestamentingr01swetuoft_OCT7
 	url = https://github.com/OpenGreekAndLAtin/2013-10-15-08-41_oldtestamentingr01swetuoft_OCT7
 [submodule "2013-10-21-20-38_oldtestgreek00unknuoft_OCT7_rev"]
 	path = 2013-10-21-20-38_oldtestgreek00unknuoft_OCT7_rev
 	url = https://github.com/OpenGreekAndLAtin/2013-10-21-20-38_oldtestgreek00unknuoft_OCT7_rev
-[submodule "2013-08-20-10-06_evangelicaepraep01euse_jp2_OCT7"]
-	path = 2013-08-20-10-06_evangelicaepraep01euse_jp2_OCT7
-	url = https://github.com/OpenGreekAndLatin/2013-08-20-10-06_evangelicaepraep01euse_jp2_OCT7.git
 [submodule "2013-10-07-19-08_eusebioutoupamph01euseuoft_jp2_OCT7"]
 	path = 2013-10-07-19-08_eusebioutoupamph01euseuoft_jp2_OCT7
 	url = https://github.com/OpenGreekAndLatin/2013-10-07-19-08_eusebioutoupamph01euseuoft_jp2_OCT7.git
@@ -352,3 +169,33 @@
 [submodule "2013-07-21-13-28_corpusscriptorum04nieb_jp2_weidmann4"]
 	path = 2013-07-21-13-28_corpusscriptorum04nieb_jp2_weidmann4
 	url = https://github.com/OpenGreekAndLatin/2013-07-21-13-28_corpusscriptorum04nieb_jp2_weidmann4.git
+[submodule "2013-08-18-13-57_ioannoutouzonara04zonauoft_jp2_Kaibel_Round_4_3"]
+	path = 2013-08-18-13-57_ioannoutouzonara04zonauoft_jp2_Kaibel_Round_4_3
+	url = https://github.com/OpenGreekAndLatin/2013-08-18-13-57_ioannoutouzonara04zonauoft_jp2_Kaibel_Round_4_3
+[submodule "2013-08-19-07-23_ioannoutouzonara03zonauoft_jp2_Kaibel_Round_4_3"]
+	path = 2013-08-19-07-23_ioannoutouzonara03zonauoft_jp2_Kaibel_Round_4_3
+	url = https://github.com/OpenGreekAndLatin/2013-08-19-07-23_ioannoutouzonara03zonauoft_jp2_Kaibel_Round_4_3
+[submodule "2013-09-23-08-18_pollucisonomasti01polluoft_jp2_TeubnerSans_2012_12_29_no_sigmas_cnn"]
+	path = 2013-09-23-08-18_pollucisonomasti01polluoft_jp2_TeubnerSans_2012_12_29_no_sigmas_cnn
+	url = https://github.com/OpenGreekAndLatin/2013-09-23-08-18_pollucisonomasti01polluoft_jp2_TeubnerSans_2012_12_29_no_sigmas_cnn
+[submodule "2013-09-23-08-28_pollucisonomasti02polluoft_jp2_TeubnerSans_2012_12_29_no_sigmas_cnn"]
+	path = 2013-09-23-08-28_pollucisonomasti02polluoft_jp2_TeubnerSans_2012_12_29_no_sigmas_cnn
+	url = https://github.com/OpenGreekAndLatin/2013-09-23-08-28_pollucisonomasti02polluoft_jp2_TeubnerSans_2012_12_29_no_sigmas_cnn
+[submodule "2013-12-16-20-42_cuaioanniszonara01zona_jp2_Kaibel_Round_4_3"]
+	path = 2013-12-16-20-42_cuaioanniszonara01zona_jp2_Kaibel_Round_4_3
+	url = https://github.com/OpenGreekAndLatin/2013-12-16-20-42_cuaioanniszonara01zona_jp2_Kaibel_Round_4_3
+[submodule "2013-12-16-20-46_cuaioanniszonara02zona_jp2_Kaibel_Round_4_3"]
+	path = 2013-12-16-20-46_cuaioanniszonara02zona_jp2_Kaibel_Round_4_3
+	url = https://github.com/OpenGreekAndLatin/2013-12-16-20-46_cuaioanniszonara02zona_jp2_Kaibel_Round_4_3
+[submodule "2013-12-16-20-50_cuaioanniszonara05zona_jp2_Kaibel_Round_4_3"]
+	path = 2013-12-16-20-50_cuaioanniszonara05zona_jp2_Kaibel_Round_4_3
+	url = https://github.com/OpenGreekAndLatin/2013-12-16-20-50_cuaioanniszonara05zona_jp2_Kaibel_Round_4_3
+[submodule "commentariaina05pt46akaduoft.2014-11-18-02-52"]
+	path = commentariaina05pt46akaduoft.2014-11-18-02-52
+	url = https://fbaumgardt:27956e5bfe85efe2872137cdb24174eae3d3c95c@github.com/OpenGreekAndLatin/commentariaina05pt46akaduoft.2014-11-18-02-52
+[submodule "p1porphyriiisago04porp.2014-11-18-02-50"]
+	path = p1porphyriiisago04porp.2014-11-18-02-50
+	url = https://fbaumgardt:27956e5bfe85efe2872137cdb24174eae3d3c95c@github.com/OpenGreekAndLatin/p1porphyriiisago04porp.2014-11-18-02-50
+[submodule "supplementumaris03akaduoft.2014-11-17-17-02"]
+	path = supplementumaris03akaduoft.2014-11-17-17-02
+	url = https://fbaumgardt:27956e5bfe85efe2872137cdb24174eae3d3c95c@github.com/OpenGreekAndLatin/supplementumaris03akaduoft.2014-11-17-17-02
